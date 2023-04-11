@@ -1,0 +1,5 @@
+1-Extract the files from zip.
+2-Run main.py, follow the instructions in the terminal.
+3-Play the wav file, CSP.wav of you chose CSP algorithm, QLearning.wav if you chose QLearning.
+NOTE : If choosing 4 notes per beat, try to limit training iterations to 1000, otherwise the program
+will run for a very long time.
